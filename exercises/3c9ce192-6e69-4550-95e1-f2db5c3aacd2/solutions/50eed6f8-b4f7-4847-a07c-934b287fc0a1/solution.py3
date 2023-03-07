@@ -16,7 +16,7 @@ model = LinearRegression()
 # fit the model to the data
 model.fit(X, Y)
 
-# predict the value of Y for X = 5
+# predict the value of Y
 x_pred = np.array([[value]])
 y_pred = model.predict(x_pred)
 print(int(y_pred[0]))
