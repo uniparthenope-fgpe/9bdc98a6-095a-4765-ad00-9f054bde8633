@@ -6,5 +6,8 @@ b = [int(arr_temp) for arr_temp in input().strip().split(' ')]
 a = np.array(a)
 b = np.array(b)
 
-c = np.inner(a, b)
-print(c)
+if a.shape == b.shape:
+    c = np.inner(a, b)
+    print(c)
+else:
+    print("Wrong input")
