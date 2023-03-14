@@ -1,0 +1,1 @@
+{ 'name': ['Vinay', 'Kushal', 'Aman'],  'age' : [22, 25, 24],  'occ' : ['engineer', 'doctor', 'accountant'] }
