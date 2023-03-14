@@ -1,0 +1,4 @@
+     name  age         occ
+0   Vinay   22    engineer
+1  Kushal   25      doctor
+2    Aman   24  accountant
