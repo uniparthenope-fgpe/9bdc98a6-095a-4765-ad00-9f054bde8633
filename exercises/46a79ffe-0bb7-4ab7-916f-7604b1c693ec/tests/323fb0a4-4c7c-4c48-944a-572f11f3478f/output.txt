@@ -1,0 +1,11 @@
+   Year  column  MSHA ID                       Mine_Name  Production  Labor_Hours
+0  2013     NaN   103381            Tacoa Highwall Miner       56004        22392
+1  2013     NaN   103404                Reid School Mine       28807        28447
+2  2013     NaN   100759  North River #1 Underground Min     1440115       474784
+3  2013     NaN   103246                      Bear Creek       87587        29193
+4  2013     NaN   103451                     Knight Mine      147499        46393
+5  2013     NaN   103433              Crane Central Mine       69339        47195
+6  2013     NaN   100329                    Concord Mine           0       144002
+7  2013     NaN   100851                  Oak Grove Mine     2269014      1001809
+8  2013     NaN   102901                Shoal Creek Mine           0        12396
+9  2013     NaN   102901                Shoal Creek Mine     1453024      1237415
