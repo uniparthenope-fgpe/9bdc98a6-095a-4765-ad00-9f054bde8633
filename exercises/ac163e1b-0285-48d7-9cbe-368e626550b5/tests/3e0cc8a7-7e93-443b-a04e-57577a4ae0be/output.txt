@@ -1,0 +1,6 @@
+   Year  MSHA ID                       Mine_Name  Production  Labor_Hours
+0  2013   103381            Tacoa Highwall Miner       56004        22392
+1  2013   103404                Reid School Mine       28807        28447
+2  2013   100759  North River #1 Underground Min     1440115       474784
+3  2013   103246                      Bear Creek       87587        29193
+4  2013   103451                     Knight Mine      147499        46393
