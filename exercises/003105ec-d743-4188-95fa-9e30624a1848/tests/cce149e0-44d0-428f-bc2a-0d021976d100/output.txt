@@ -1,0 +1,4 @@
+            emp_id first_name last_name
+hire_date                              
+2003-06-17     100     Steven      King
+2003-05-18     115  Alexander      Khoo
