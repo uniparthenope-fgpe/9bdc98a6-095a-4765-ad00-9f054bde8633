@@ -1,0 +1,6 @@
+Year            int64
+MSHA ID         int64
+Mine_Name      object
+Production      int64
+Labor_Hours     int64
+dtype: object
