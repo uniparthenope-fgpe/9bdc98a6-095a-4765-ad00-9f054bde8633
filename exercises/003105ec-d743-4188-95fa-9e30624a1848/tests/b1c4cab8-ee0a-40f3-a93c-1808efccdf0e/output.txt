@@ -1,0 +1,8 @@
+            emp_id first_name last_name
+hire_date                              
+2005-09-21     101      Neena   Kochhar
+2005-06-25     105      David    Austin
+2005-09-28     110       John      Chen
+2005-09-30     111     Ismael   Sciarra
+2005-12-24     116     Shelli     Baida
+2005-07-24     117      Sigal    Tobias
