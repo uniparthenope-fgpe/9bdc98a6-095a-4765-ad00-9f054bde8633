@@ -1,0 +1,5 @@
+    Year  MSHA ID                      Mine_Name  Production  Labor_Hours
+13  2013   103332                  Powhatan Mine      140521        61394
+18  2013   102976  Piney Woods Preparation Plant           0        14828
+19  2013   102976  Piney Woods Preparation Plant           0        23193
+46  2013   103321                 Poplar Springs      189370        76366
