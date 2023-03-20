@@ -1,0 +1,1 @@
+{"id":"56bbf008-76db-4b33-9d1e-a328fd9d2d59","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program linalg.det"}
