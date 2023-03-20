@@ -1,0 +1,7 @@
+cut
+Fair         3593.988095
+Good         3541.230008
+Ideal        3235.709914
+Premium      3503.800317
+Very Good    3414.363204
+Name: price, dtype: float64
