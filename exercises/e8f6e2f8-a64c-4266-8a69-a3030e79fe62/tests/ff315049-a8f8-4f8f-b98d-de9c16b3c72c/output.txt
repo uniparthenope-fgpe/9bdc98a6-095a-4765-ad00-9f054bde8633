@@ -1,0 +1,6 @@
+Ideal        3137
+Premium      2524
+Very Good    2522
+Good         1313
+Fair          504
+Name: cut, dtype: int64
