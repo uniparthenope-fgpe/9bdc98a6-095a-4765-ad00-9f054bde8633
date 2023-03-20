@@ -1,0 +1,7 @@
+           count  min   max
+cut                        
+Fair         504  337  4704
+Good        1313  327  4704
+Ideal       3137  326  4704
+Premium     2524  326  4704
+Very Good   2522  336  4704
