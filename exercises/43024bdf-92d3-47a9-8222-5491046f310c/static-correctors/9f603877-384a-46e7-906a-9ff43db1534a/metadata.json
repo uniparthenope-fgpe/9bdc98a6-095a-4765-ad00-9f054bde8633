@@ -1,0 +1,1 @@
+{"id":"9f603877-384a-46e7-906a-9ff43db1534a","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program numpy.linalg"}
