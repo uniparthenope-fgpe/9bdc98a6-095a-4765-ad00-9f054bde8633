@@ -1,0 +1,6 @@
+Ideal        0.3137
+Premium      0.2524
+Very Good    0.2522
+Good         0.1313
+Fair         0.0504
+Name: cut, dtype: float64
