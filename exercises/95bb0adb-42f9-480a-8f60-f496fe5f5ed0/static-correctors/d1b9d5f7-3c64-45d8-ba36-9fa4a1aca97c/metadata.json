@@ -1,0 +1,1 @@
+{"id":"d1b9d5f7-3c64-45d8-ba36-9fa4a1aca97c","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program eig"}
