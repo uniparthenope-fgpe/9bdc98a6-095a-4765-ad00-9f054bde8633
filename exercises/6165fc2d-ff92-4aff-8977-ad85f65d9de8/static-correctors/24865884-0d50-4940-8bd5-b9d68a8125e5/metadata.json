@@ -1,1 +1,1 @@
-{"id":"24865884-0d50-4940-8bd5-b9d68a8125e5","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program scipy.special"}
+{"id":"24865884-0d50-4940-8bd5-b9d68a8125e5","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program factorial"}
