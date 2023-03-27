@@ -1,1 +1,1 @@
-{"id":"194e325b-16a8-4bda-a51e-d3200a3035b2","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program scipy.optimize"}
+{"id":"194e325b-16a8-4bda-a51e-d3200a3035b2","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program optimize"}
