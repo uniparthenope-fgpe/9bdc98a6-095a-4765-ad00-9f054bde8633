@@ -1,1 +1,1 @@
-{"id":"e31283d9-d14d-4ba9-b87f-b7d2c0eaccfb","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program scipy.stats"}
+{"id":"e31283d9-d14d-4ba9-b87f-b7d2c0eaccfb","pathname":"scipy-function-checker.sh","command_line":"sh $FILE $program stats"}
