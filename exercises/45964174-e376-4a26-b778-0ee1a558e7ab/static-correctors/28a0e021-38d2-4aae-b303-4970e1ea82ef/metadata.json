@@ -1,0 +1,1 @@
+{"id":"28a0e021-38d2-4aae-b303-4970e1ea82ef","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule KNeighborsClassifier,load_iris,train_test_split --functions load_iris,train_test_split,KNeighborsClassifier"}
