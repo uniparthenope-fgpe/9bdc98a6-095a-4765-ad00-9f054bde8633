@@ -1,0 +1,1 @@
+{"id":"4bf27eb4-b2e3-4a41-bbb8-6b61b77900c8","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule numpy,Ridge --functions Ridge,fit "}
