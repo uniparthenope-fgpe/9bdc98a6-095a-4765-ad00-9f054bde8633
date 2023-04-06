@@ -1,0 +1,1 @@
+{"id":"f57a30d1-0af8-47f1-8042-d1b4a5c0ae94","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule StandardScaler,load_iris,train_test_split --functions load_iris,StandardScaler"}
