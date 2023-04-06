@@ -1,0 +1,1 @@
+{"id":"4fdd0032-a75f-4cc4-9945-6be24708b492","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule GradientBoostingClassifier,load_iris,train_test_split --functions load _iris,train_test_split,GradientBoostingClassifier"}
