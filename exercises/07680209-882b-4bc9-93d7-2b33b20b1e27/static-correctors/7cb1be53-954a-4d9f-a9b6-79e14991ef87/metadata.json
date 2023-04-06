@@ -1,0 +1,1 @@
+{"id":"7cb1be53-954a-4d9f-a9b6-79e14991ef87","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_iris,train_test_split --functions load_iris,train_test_split"}
