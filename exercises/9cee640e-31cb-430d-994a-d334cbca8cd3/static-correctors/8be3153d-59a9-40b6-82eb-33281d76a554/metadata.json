@@ -1,0 +1,1 @@
+{"id":"8be3153d-59a9-40b6-82eb-33281d76a554","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule DecisionTreeClassifier,load_iris,train_test_split --functions load_iris ,train_test_split,DecisionTreeClassifier"}
