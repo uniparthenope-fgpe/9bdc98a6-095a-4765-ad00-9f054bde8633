@@ -1,0 +1,1 @@
+{"id":"7f3ae1e0-a023-49de-b07c-42a80bd89351","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule pandas --functions DataFrame"}
