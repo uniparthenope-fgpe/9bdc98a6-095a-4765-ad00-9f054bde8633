@@ -1,0 +1,1 @@
+{"id":"c682fea4-9023-4ef5-8536-37ab8accb492","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule numpy --functions rand"}
