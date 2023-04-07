@@ -1,0 +1,1 @@
+{"id":"70a4887e-7e78-49c9-8242-c4710e071464","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_diabetes,train_test_split,RandomForestClassifier,accuracy_score --functions load_diabetes,train_test_split,RandomForestClassifier,predict"}
