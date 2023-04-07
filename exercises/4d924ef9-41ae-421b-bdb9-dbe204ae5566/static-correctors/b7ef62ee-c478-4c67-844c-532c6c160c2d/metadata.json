@@ -1,0 +1,1 @@
+{"id":"b7ef62ee-c478-4c67-844c-532c6c160c2d","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule numpy,tensorflow.compat.v1 --functions placeholder,Variable,run"}
