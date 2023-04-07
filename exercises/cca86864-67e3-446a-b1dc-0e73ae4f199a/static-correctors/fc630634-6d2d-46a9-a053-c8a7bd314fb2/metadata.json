@@ -1,0 +1,1 @@
+{"id":"fc630634-6d2d-46a9-a053-c8a7bd314fb2","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_iris,train_test_split,AdaBoostClassifier --functions load_iris,train _test_split,AdaBoostClassifier,fit,predict,accuracy_score"}
