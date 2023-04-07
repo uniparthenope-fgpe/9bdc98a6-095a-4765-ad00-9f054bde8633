@@ -1,0 +1,1 @@
+{"id":"7ebf5631-3dc6-4b9f-9d0a-e79239fc3604","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule Sequential,Dense --functions add,compile,fit "}
