@@ -1,0 +1,1 @@
+{"id":"2c246561-a469-4209-9f8d-e8a8a59ce2a3","pathname":"source-code-checker.py","command_line":"python3 $FILE $program  --importModule load_iris,train_test_split,GridSearchCV,SVC --functions load_iris,train_t est_split,SVC,GridSearchCV,fit"}
