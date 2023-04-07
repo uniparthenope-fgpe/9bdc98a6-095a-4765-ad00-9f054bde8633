@@ -1,0 +1,1 @@
+{"id":"2b3b8e28-71a5-4081-8fd1-5c5b6042355a","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_iris,confusion_matrix,GaussianNB --functions load_iris,GaussianNB,confusion_matrix,predict,fit"}
