@@ -1,0 +1,1 @@
+{"id":"6a736fd8-eba0-4431-a1d1-b212ec199993","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_iris,train_test_split,GaussianNB,accuracy_score --functions load_iri s,train_test_split,GaussianNB,fit,predict"}
