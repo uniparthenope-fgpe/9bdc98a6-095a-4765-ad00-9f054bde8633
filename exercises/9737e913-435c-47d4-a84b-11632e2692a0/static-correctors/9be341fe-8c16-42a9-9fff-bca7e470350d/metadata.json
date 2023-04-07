@@ -1,0 +1,1 @@
+{"id":"9be341fe-8c16-42a9-9fff-bca7e470350d","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_diabetes,train_test_split,LinearRegression --functions load_diabetes,train_test_split,LinearRegression,fit,predict,mean_squared_error"}
