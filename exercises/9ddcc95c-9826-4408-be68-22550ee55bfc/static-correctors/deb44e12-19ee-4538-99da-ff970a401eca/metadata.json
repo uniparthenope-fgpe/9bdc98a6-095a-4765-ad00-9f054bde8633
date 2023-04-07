@@ -1,0 +1,1 @@
+{"id":"deb44e12-19ee-4538-99da-ff970a401eca","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_iris,train_test_split,LogisticRegression,accuracy_score --functions load_iris,train_test_split,LogisticRegression,predict"}
