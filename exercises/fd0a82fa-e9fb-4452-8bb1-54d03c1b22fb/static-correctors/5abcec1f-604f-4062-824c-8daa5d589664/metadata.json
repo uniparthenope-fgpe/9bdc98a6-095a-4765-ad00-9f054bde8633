@@ -1,0 +1,1 @@
+{"id":"5abcec1f-604f-4062-824c-8daa5d589664","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_iris,cross_val_score,DecisionTreeClassifier --functions load_iris,DecisionTreeClassifier,cross_val_score"}
