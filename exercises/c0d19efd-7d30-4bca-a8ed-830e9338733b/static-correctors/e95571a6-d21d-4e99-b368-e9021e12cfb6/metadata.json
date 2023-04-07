@@ -1,0 +1,1 @@
+{"id":"e95571a6-d21d-4e99-b368-e9021e12cfb6","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule mnist,Sequential,Dense,SGD --functions load_data,Sequential,add,compile,fit"}
