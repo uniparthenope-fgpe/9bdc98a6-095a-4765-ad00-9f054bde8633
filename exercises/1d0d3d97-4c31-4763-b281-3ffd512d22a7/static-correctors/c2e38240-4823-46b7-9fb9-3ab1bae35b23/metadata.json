@@ -1,0 +1,1 @@
+{"id":"c2e38240-4823-46b7-9fb9-3ab1bae35b23","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_diabetes,train_test_split,ElasticNet --functions load_diabetes,train _test_split,ElasticNet,fit,predict,mean_squared_error,r2_score"}
