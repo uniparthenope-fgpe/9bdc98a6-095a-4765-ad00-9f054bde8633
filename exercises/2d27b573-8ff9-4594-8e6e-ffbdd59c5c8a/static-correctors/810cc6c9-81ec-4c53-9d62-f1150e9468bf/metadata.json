@@ -1,0 +1,1 @@
+{"id":"810cc6c9-81ec-4c53-9d62-f1150e9468bf","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_diabetes,train_test_split,GradientBoostingRegressor --functions load _diabetes,train_test_split,GradientBoostingRegressor,fit,predict,mean_squared_error,r2_score"}
