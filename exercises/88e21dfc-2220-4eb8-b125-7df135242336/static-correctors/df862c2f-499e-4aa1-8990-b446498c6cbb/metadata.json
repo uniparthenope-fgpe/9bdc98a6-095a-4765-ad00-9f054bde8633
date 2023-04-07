@@ -1,0 +1,1 @@
+{"id":"df862c2f-499e-4aa1-8990-b446498c6cbb","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_breast_cancer,train_test_split,SVC,accuracy_score --functions load_breast_cancer,train_test_split,SVC,predict"}
