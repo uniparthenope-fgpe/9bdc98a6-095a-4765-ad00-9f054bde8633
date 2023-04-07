@@ -1,0 +1,1 @@
+{"id":"795eb1b8-39c3-4e81-80a9-efed6a5134ee","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule cifar10,Sequential,Adam --functions load_data,Sequential,add,compile,fit"}
