@@ -1,0 +1,1 @@
+{"id":"3bb92fa8-7624-41a2-a66a-e8a57991302b","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_iris,train_test_split,RandomForestClassifier,accuracy_score --functi ons load_iris,train_test_split,RandomForestClassifier,fit,predict"}
