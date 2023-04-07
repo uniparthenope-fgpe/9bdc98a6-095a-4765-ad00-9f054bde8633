@@ -1,0 +1,1 @@
+{"id":"24410298-f2f2-4d89-b563-2ff2a36aff7d","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_diabetes,train_test_split,Ridge --functions load_diabetes,train_test _split,Ridge,fit,predict,mean_squared_error,r2_score"}
