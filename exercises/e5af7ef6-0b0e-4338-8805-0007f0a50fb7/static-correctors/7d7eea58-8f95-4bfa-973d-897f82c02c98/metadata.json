@@ -1,0 +1,1 @@
+{"id":"7d7eea58-8f95-4bfa-973d-897f82c02c98","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_diabetes,train_test_split,Lasso --functions load_diabetes,train_test _split,Lasso,fit,predict,mean_squared_error,r2_score"}
