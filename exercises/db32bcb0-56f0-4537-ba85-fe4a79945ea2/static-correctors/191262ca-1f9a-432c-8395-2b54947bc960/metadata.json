@@ -1,0 +1,1 @@
+{"id":"191262ca-1f9a-432c-8395-2b54947bc960","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_wine,DecisionTreeClassifier --functions load_wine,DecisionTreeClassifier,fit"}
