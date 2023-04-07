@@ -1,0 +1,1 @@
+{"id":"2242fb8a-5e5d-48b7-9dc9-da9fc1b71a55","pathname":"source-code-checker.py","command_line":"python3 $FILE $program --importModule load_iris,train_test_split,KMeans --functions load_iris,train_test_split, KMeans,fit,predict"}
