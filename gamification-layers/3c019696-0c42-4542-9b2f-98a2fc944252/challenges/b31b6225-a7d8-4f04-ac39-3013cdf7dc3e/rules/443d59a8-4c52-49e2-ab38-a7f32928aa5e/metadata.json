@@ -1,0 +1,1 @@
+{"id":"443d59a8-4c52-49e2-ab38-a7f32928aa5e","name":"Unlock Level 3","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","08aba706-a49c-4a75-893c-16a6e3ea0a24","state","OPENED"]}]}
