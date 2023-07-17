@@ -1,0 +1,1 @@
+{"id":"c479164d-1267-46a1-b6a7-cdd4ea358070","name":"Unlock level 2","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","367310a5-ef96-4458-908f-44b2a1f778f1","state","OPENED"]}]}
